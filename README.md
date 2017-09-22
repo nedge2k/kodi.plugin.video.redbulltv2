@@ -1,4 +1,8 @@
-# 2017 Redbull TV Plugin for Kodi
+# MY INVOLVEMENT WITH THIS ADDON STOPS AT v0.0.5
+# ANDY GARDENER (@ANDY-G) HAS FORKED THIS REPO AND CONTINUED TO REFINE THE PLUGIN
+# HIS REPO IS HERE: https://github.com/andy-g/kodi.plugin.video.redbulltv2
+
+# [DEPRECATED] 2017 Redbull TV Plugin for Kodi
 Streaming video plugin for Kodi that uses the Redbull TV Apple TV v2 XML "API" - it's not really an API, more like an XML web page that gets displayed as-is and then styled with css on Apple TV units. This is when the listing in Kodi will look a bit "odd".
 
 This is the first time I've written anything in Python so it may be a little rough around the edges but it seems to work well enough for my needs.
